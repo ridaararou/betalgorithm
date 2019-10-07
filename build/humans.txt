@@ -1,0 +1,11 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Bilal Ararou -- Web Designer -- @BilalArarou
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, Javascript
+    jQuery, Modernizr, Gulp, Bootstrap
